@@ -1,0 +1,19 @@
+1635082561033:testOnly practice.AndTest -- -DwriteVcd=1
+1635089688117:val out4 = Output ( UInt ( 32 . W ) )
+1635089701727:testOnly practice.AndTest -- -DwriteVcd=1
+1635243507367:testOnly practice.TestALU -- -DwriteVcd=1
+1635315821224:testOnly practice.ALU -- -DwriteVcd=1
+1635315916466:testOnly practice.TestALU -- -DwriteVcd=1
+1635317524722:testOnly practice.AndTest -- -DwriteVcd=1
+1635321674289:testOnly practice.ImmGentest -- -DwriteVcd=1
+1635322783336:testOnly practice.AndTest -- -DwriteVcd=1
+1635322791717:testOnly practice.ImmGentest -- -DwriteVcd=1
+1635346320674:testOnly practice.AndTest -- -DwriteVcd=1
+1635411851953:testOnly practice.lab6 -- -DwriteVcd=1
+1635482795047:test
+1635488963139:testOnly practice.lab6 -- -DwriteVcd=1
+1635488982955:testOnly practice.lab69 -- -DwriteVcd=1
+1636639412903:test
+1636655741272:testOnly ALUtest.lab6 -- -DwriteVcd=1
+1636656298400:testOnly branchtest.lab3 -- -DwriteVcd=1
+1636656403235:test

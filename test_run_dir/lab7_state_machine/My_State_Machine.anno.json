@@ -1,0 +1,24 @@
+[
+  {
+    "class":"firrtl.stage.FirrtlFileAnnotation",
+    "file":"test_run_dir/lab7_state_machine/My_State_Machine.lo.fir"
+  },
+  {
+    "class":"firrtl.transforms.CombinationalPath",
+    "sink":"~My_State_Machine|My_State_Machine>io_out",
+    "sources":[
+      "~My_State_Machine|My_State_Machine>io_r1",
+      "~My_State_Machine|My_State_Machine>io_f1",
+      "~My_State_Machine|My_State_Machine>io_r2",
+      "~My_State_Machine|My_State_Machine>io_f2"
+    ]
+  },
+  {
+    "class":"firrtl.EmitCircuitAnnotation",
+    "emitter":"firrtl.LowFirrtlEmitter"
+  },
+  {
+    "class":"firrtl.transforms.BlackBoxTargetDirAnno",
+    "targetDir":"test_run_dir/lab7_state_machine"
+  }
+]

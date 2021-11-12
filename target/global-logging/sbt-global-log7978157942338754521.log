@@ -1,0 +1,91 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(test, Some(62a0132f-d7f5-4b72-8ca3-1d660635edcf), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / test[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 7 Scala sources to /home/phonerebelx/scala-chisel-learning-journey/target/scala-2.12/classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 7 Scala sources to /home/phonerebelx/scala-chisel-learning-journey/target/scala-2.12/test-classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mdoForwardingTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Mem1 lab8[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mcounter_with_xor_test:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- lab66[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mencodertest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- encode[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mtestdecoder:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- decode[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest_Roxket_ALU:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- ALUTest[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mRouter_Pack_Test:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Router_Parameter[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mlab7Task2Test:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- manchester wave[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCounterTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- lab6[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mbitextendertest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- BitExtender[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mWMaskedReadWriteSmemtest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Mem1 lab8[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mmemory_assignment_Test:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Arbitor Memory1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAlu_Paraa_Test:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- ALUpara[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAdder_param_Test:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Adder_param[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCountTest1:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- CounterTest test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mlab7Test:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- lab7 state machine[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCountTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- CounterTest test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mALUtest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- ALU[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mshift_register_Test:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- lab66[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mBranchCtrltest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Branching [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mshift_reg_with_parallel_load_Test:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- lab66[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCountTest2:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- c ounter_up_down test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mImmGentest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Imm.Gen [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGCDSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Gcd should calculate proper greatest common denominator[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest_ALU:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- ALU__Test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mMux_PAra_Test:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Muxpara[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mOperatortest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Operator tEST[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mgen_counterTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Ex 3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mup_down_counter_Test:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- lab6task4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mbranchtest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- ALU[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mMy_Queue_Test:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- lab6task4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mmemorytest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- Mem1 lab8 *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  java.io.FileNotFoundException: C:/Users/zeeshan khan/Downloads/Scala-Chisel-Learning-Journey-main/Scala-Chisel-Learning-Journey-main/src/main/inst.txt (No such file or directory)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at java.base/java.io.FileInputStream.open0(Native Method)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at java.base/java.io.FileInputStream.open(FileInputStream.java:219)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at scala.io.Source$.fromFile(Source.scala:94)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at scala.io.Source$.fromFile(Source.scala:79)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at firrtl.FileUtils$.getLines(FileUtils.scala:110)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at firrtl.FileUtils$.getLines(FileUtils.scala:102)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at treadle.executable.MemoryInitializer.doInitialize(Memory.scala:665)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at treadle.executable.MemoryInitializer.$anonfun$initializeMemoriesFromFiles$1(Memory.scala:681)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at treadle.executable.MemoryInitializer.$anonfun$initializeMemoriesFromFiles$1$adapted(Memory.scala:680)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  ...[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 56 seconds, 131 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 31[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 31, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 30, failed 1, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m*** 1 TEST FAILED ***[0m[0m
+[0m[[0m[31merror[0m] [0m[0mFailed tests:[0m
+[0m[[0m[31merror[0m] [0m[0m	lab8.memorytest[0m
+[0m[[0m[0mdebug[0m] [0m[0mForcing garbage collection...[0m
+[0m[[0m[31merror[0m] [0m[0m(Test / [31mtest[0m) sbt.TestsFailedException: Tests unsuccessful[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 73 s (01:13), completed Nov 12, 2021, 9:55:44 AM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
+[0m[[0m[0minfo[0m] [0m[0mshutting down sbt server[0m

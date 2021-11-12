@@ -1,0 +1,23 @@
+[
+  {
+    "class":"firrtl.stage.FirrtlFileAnnotation",
+    "file":"test_run_dir/Muxpara/Mux_Module.lo.fir"
+  },
+  {
+    "class":"firrtl.transforms.CombinationalPath",
+    "sink":"~Mux_Module|Mux_Module>io_out",
+    "sources":[
+      "~Mux_Module|Mux_Module>io_sel",
+      "~Mux_Module|Mux_Module>io_in1",
+      "~Mux_Module|Mux_Module>io_in2"
+    ]
+  },
+  {
+    "class":"firrtl.EmitCircuitAnnotation",
+    "emitter":"firrtl.LowFirrtlEmitter"
+  },
+  {
+    "class":"firrtl.transforms.BlackBoxTargetDirAnno",
+    "targetDir":"test_run_dir/Muxpara"
+  }
+]

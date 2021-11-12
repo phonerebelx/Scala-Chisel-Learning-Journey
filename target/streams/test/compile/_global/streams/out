@@ -1,0 +1,9 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/phonerebelx/scala-chisel-learning-journey/src/test/scala/lab4/lab4/ALU_Unit_Test.scala:27:30: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following inputs: Bool(), UInt()[0m
+[0m[[0m[33mwarn[0m] [0m[0m                val result = aluop match {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                             ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/phonerebelx/scala-chisel-learning-journey/src/test/scala/lab4/lab4/RocketALuUNiTest.scala:37:51: method >> in class Int is deprecated (since 2.12.7): shifting a value by a `Long` argument is deprecated (except when the value is a `Long`).[0m
+[0m[[0m[33mwarn[0m] [0m[0mCall `toInt` on the argument to maintain the current behavior and avoid the deprecation warning.[0m
+[0m[[0m[33mwarn[0m] [0m[0m                    case ALU_SRA => src_a . toInt >> ( src_b & 0x1F )[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                  ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mtwo warnings found[0m

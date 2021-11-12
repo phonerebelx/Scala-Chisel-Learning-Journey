@@ -1,0 +1,23 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(testOnly practice.AndTest -- -DwriteVcd=1, Some(0bcebeed-291f-472e-87eb-a54edd7d6050), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / testOnly[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/taskStart, {"taskId":{"id":"12","parents":[]},"eventTime":1635090539800,"message":"Compiling root","dataKind":"compile-task","data":{"target":{"uri":"file:/home/phonerebelx/scala-chisel-learning-journey/#root/Compile"}}})[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/phonerebelx/scala-chisel-learning-journey/target/scala-2.12/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":3,"message":"compiling 1 Scala source to /home/phonerebelx/scala-chisel-learning-journey/target/scala-2.12/classes ..."})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/publishDiagnostics, {"textDocument":{"uri":"file:///home/phonerebelx/scala-chisel-learning-journey/src/main/scala/practice/And.scala"},"buildTarget":{"uri":"file:/home/phonerebelx/scala-chisel-learning-journey/#root/Compile"},"diagnostics":[{"range":{"start":{"line":53,"character":9},"end":{"line":53,"character":10}},"severity":1,"source":"sbt","message":"not found: value func_3"}],"reset":false})[0m
+[0m[[0m[31merror[0m] [0m[0m/home/phonerebelx/scala-chisel-learning-journey/src/main/scala/practice/And.scala:54:10: not found: value func_3[0m
+[0m[[0m[31merror[0m] [0m[0mswitch ( func_3 ) {[0m
+[0m[[0m[31merror[0m] [0m[0m         ^[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":1,"message":"/home/phonerebelx/scala-chisel-learning-journey/src/main/scala/practice/And.scala:54:10: not found: value func_3"})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":1,"message":"switch ( func_3 ) {"})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":1,"message":"         ^"})[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":1,"message":"one error found"})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/publishDiagnostics, {"textDocument":{"uri":"file:///home/phonerebelx/scala-chisel-learning-journey/src/main/scala/gcd/DecoupledGCD.scala"},"buildTarget":{"uri":"file:/home/phonerebelx/scala-chisel-learning-journey/#root/Compile"},"diagnostics":[],"reset":true})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/publishDiagnostics, {"textDocument":{"uri":"file:///home/phonerebelx/scala-chisel-learning-journey/src/main/scala/gcd/GCD.scala"},"buildTarget":{"uri":"file:/home/phonerebelx/scala-chisel-learning-journey/#root/Compile"},"diagnostics":[],"reset":true})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/publishDiagnostics, {"textDocument":{"uri":"file:///home/phonerebelx/scala-chisel-learning-journey/src/main/scala/practice/And.scala"},"buildTarget":{"uri":"file:/home/phonerebelx/scala-chisel-learning-journey/#root/Compile"},"diagnostics":[{"range":{"start":{"line":53,"character":9},"end":{"line":53,"character":10}},"severity":1,"source":"sbt","message":"not found: value func_3"}],"reset":true})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/taskFinish, {"taskId":{"id":"12","parents":[]},"eventTime":1635090542790,"message":"Compiled root","status":2,"dataKind":"compile-report","data":{"target":{"uri":"file:/home/phonerebelx/scala-chisel-learning-journey/#root/Compile"},"errors":1,"warnings":0,"time":2990}})[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":1,"message":"(Compile / \u001b[31mcompileIncremental\u001b[0m) Compilation failed"})[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 4 s, completed Oct 24, 2021, 8:49:02 AM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

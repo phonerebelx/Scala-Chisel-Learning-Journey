@@ -1,0 +1,34 @@
+[
+  {
+    "class":"firrtl.stage.FirrtlFileAnnotation",
+    "file":"test_run_dir/Branching/BranchCtrl.lo.fir"
+  },
+  {
+    "class":"firrtl.transforms.CombinationalPath",
+    "sink":"~BranchCtrl|BranchCtrl>io_br_taken",
+    "sources":[
+      "~BranchCtrl|BranchCtrl>io_branch",
+      "~BranchCtrl|BranchCtrl>io_out",
+      "~BranchCtrl|BranchCtrl>io_sel",
+      "~BranchCtrl|BranchCtrl>io_a",
+      "~BranchCtrl|BranchCtrl>io_b"
+    ]
+  },
+  {
+    "class":"firrtl.transforms.CombinationalPath",
+    "sink":"~BranchCtrl|BranchCtrl>io_out",
+    "sources":[
+      "~BranchCtrl|BranchCtrl>io_sel",
+      "~BranchCtrl|BranchCtrl>io_a",
+      "~BranchCtrl|BranchCtrl>io_b"
+    ]
+  },
+  {
+    "class":"firrtl.EmitCircuitAnnotation",
+    "emitter":"firrtl.LowFirrtlEmitter"
+  },
+  {
+    "class":"firrtl.transforms.BlackBoxTargetDirAnno",
+    "targetDir":"test_run_dir/Branching"
+  }
+]

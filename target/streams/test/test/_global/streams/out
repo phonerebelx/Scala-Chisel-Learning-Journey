@@ -1,0 +1,144 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(lab3.encodertest, org.scalatest.tools.Framework$$anon$1@68123c0f, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(lab5.Adder_param_Test, org.scalatest.tools.Framework$$anon$1@68123c0f, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mencodertest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- encode[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAdder_param_Test:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Adder_param[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(lab3.ALUtest, org.scalatest.tools.Framework$$anon$1@68123c0f, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(lab8.WMaskedReadWriteSmemtest, org.scalatest.tools.Framework$$anon$1@68123c0f, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mALUtest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- ALU[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(lab5.Alu_Paraa_Test, org.scalatest.tools.Framework$$anon$1@68123c0f, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mWMaskedReadWriteSmemtest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Mem1 lab8[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(lab1.CountTest1, org.scalatest.tools.Framework$$anon$1@68123c0f, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCountTest1:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- CounterTest test[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(lab4.Test_ALU, org.scalatest.tools.Framework$$anon$1@68123c0f, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAlu_Paraa_Test:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- ALUpara[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(lab6.counter_with_xor_test, org.scalatest.tools.Framework$$anon$1@68123c0f, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mcounter_with_xor_test:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- lab66[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(gcd.GCDSpec, org.scalatest.tools.Framework$$anon$1@68123c0f, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest_ALU:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- ALU__Test[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(lab7.lab7Task2Test, org.scalatest.tools.Framework$$anon$1@68123c0f, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mlab7Task2Test:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- manchester wave[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(lab6.up_down_counter_Test, org.scalatest.tools.Framework$$anon$1@68123c0f, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mup_down_counter_Test:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- lab6task4[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(lab6.My_Queue_Test, org.scalatest.tools.Framework$$anon$1@68123c0f, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGCDSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Gcd should calculate proper greatest common denominator[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(lab3.testdecoder, org.scalatest.tools.Framework$$anon$1@68123c0f, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mMy_Queue_Test:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- lab6task4[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(lab1.gen_counterTest, org.scalatest.tools.Framework$$anon$1@68123c0f, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mtestdecoder:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- decode[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(lab8.memory_assignment_Test, org.scalatest.tools.Framework$$anon$1@68123c0f, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mgen_counterTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Ex 3[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(lab7.lab7Test, org.scalatest.tools.Framework$$anon$1@68123c0f, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mlab7Test:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- lab7 state machine[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(lab3.bitextendertest, org.scalatest.tools.Framework$$anon$1@68123c0f, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mmemory_assignment_Test:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Arbitor Memory1[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(lab1.CountTest, org.scalatest.tools.Framework$$anon$1@68123c0f, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mbitextendertest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- BitExtender[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(lab6.shift_register_Test, org.scalatest.tools.Framework$$anon$1@68123c0f, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mshift_register_Test:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- lab66[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(lab5.Router_Pack_Test, org.scalatest.tools.Framework$$anon$1@68123c0f, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCountTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- CounterTest test[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(lab5.Mux_PAra_Test, org.scalatest.tools.Framework$$anon$1@68123c0f, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mRouter_Pack_Test:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Router_Parameter[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(lab4.BranchCtrltest, org.scalatest.tools.Framework$$anon$1@68123c0f, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mMux_PAra_Test:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Muxpara[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(lab4.ImmGentest, org.scalatest.tools.Framework$$anon$1@68123c0f, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mImmGentest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Imm.Gen [0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(lab1.CountTest2, org.scalatest.tools.Framework$$anon$1@68123c0f, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mBranchCtrltest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Branching [0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(lab4.Test_Roxket_ALU, org.scalatest.tools.Framework$$anon$1@68123c0f, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCountTest2:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- c ounter_up_down test[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(lab3.branchtest, org.scalatest.tools.Framework$$anon$1@68123c0f, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mbranchtest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- ALU[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(lab6.CounterTest, org.scalatest.tools.Framework$$anon$1@68123c0f, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest_Roxket_ALU:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- ALUTest[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(lab6.shift_reg_with_parallel_load_Test, org.scalatest.tools.Framework$$anon$1@68123c0f, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCounterTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- lab6[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(lab8.memorytest, org.scalatest.tools.Framework$$anon$1@68123c0f, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mshift_reg_with_parallel_load_Test:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- lab66[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(lab8.doForwardingTest, org.scalatest.tools.Framework$$anon$1@68123c0f, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mmemorytest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- Mem1 lab8 *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  java.io.FileNotFoundException: /home/phonerebelx/scala-chisel-learning-journey/src/main/scala (Is a directory)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at java.base/java.io.FileInputStream.open0(Native Method)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at java.base/java.io.FileInputStream.open(FileInputStream.java:219)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at scala.io.Source$.fromFile(Source.scala:94)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at scala.io.Source$.fromFile(Source.scala:79)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at firrtl.FileUtils$.getLines(FileUtils.scala:110)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at firrtl.FileUtils$.getLines(FileUtils.scala:102)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at treadle.executable.MemoryInitializer.doInitialize(Memory.scala:665)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at treadle.executable.MemoryInitializer.$anonfun$initializeMemoriesFromFiles$1(Memory.scala:681)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at treadle.executable.MemoryInitializer.$anonfun$initializeMemoriesFromFiles$1$adapted(Memory.scala:680)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  ...[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(lab5.Operatortest, org.scalatest.tools.Framework$$anon$1@68123c0f, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mdoForwardingTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Mem1 lab8[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mOperatortest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Operator tEST[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 1 minute, 15 seconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 31[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 31, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 30, failed 1, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m*** 1 TEST FAILED ***[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lab3.ALUtest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lab7.lab7Test[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lab1.gen_counterTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lab4.Test_Roxket_ALU[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lab3.encodertest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lab4.BranchCtrltest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lab7.lab7Task2Test[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lab1.CountTest1[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lab5.Router_Pack_Test[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lab6.shift_register_Test[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lab6.up_down_counter_Test[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lab6.My_Queue_Test[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lab5.Operatortest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lab6.CounterTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lab4.ImmGentest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lab1.CountTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lab6.shift_reg_with_parallel_load_Test[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lab8.memory_assignment_Test[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lab3.bitextendertest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lab5.Alu_Paraa_Test[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lab1.CountTest2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lab3.branchtest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lab8.WMaskedReadWriteSmemtest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gcd.GCDSpec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lab5.Adder_param_Test[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lab5.Mux_PAra_Test[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lab6.counter_with_xor_test[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lab8.doForwardingTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lab3.testdecoder[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lab4.Test_ALU[0m
+[0m[[0m[31merror[0m] [0m[0mFailed tests:[0m
+[0m[[0m[31merror[0m] [0m[0m	lab8.memorytest[0m
+[0m[[0m[31merror[0m] [0m[0m(Test / [31mtest[0m) sbt.TestsFailedException: Tests unsuccessful[0m

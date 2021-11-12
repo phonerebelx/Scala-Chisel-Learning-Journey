@@ -1,0 +1,64 @@
+[0m[[0m[31merror[0m] [0m[0m/home/phonerebelx/scala-chisel-learning-journey/src/main/scala/lab7/lab4/ALUunit.scala:6:8: ALUOP is already defined as object ALUOP[0m
+[0m[[0m[31merror[0m] [0m[0mobject ALUOP {[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/phonerebelx/scala-chisel-learning-journey/src/main/scala/lab7/lab4/ALUunit.scala:30:7: ALU is already defined as class ALU[0m
+[0m[[0m[31merror[0m] [0m[0mclass ALU extends Module{[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/phonerebelx/scala-chisel-learning-journey/src/main/scala/lab7/lab4/BranchUnit.scala:4:7: BranchControl is already defined as class BranchControl[0m
+[0m[[0m[31merror[0m] [0m[0mclass BranchControl extends Bundle {[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/phonerebelx/scala-chisel-learning-journey/src/main/scala/lab7/lab4/BranchUnit.scala:13:8: BALUOP is already defined as object BALUOP[0m
+[0m[[0m[31merror[0m] [0m[0mobject BALUOP {[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/phonerebelx/scala-chisel-learning-journey/src/main/scala/lab7/lab4/BranchUnit.scala:21:7: BranchCtrl is already defined as class BranchCtrl[0m
+[0m[[0m[31merror[0m] [0m[0mclass BranchCtrl extends Module {[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/phonerebelx/scala-chisel-learning-journey/src/main/scala/lab7/lab4/ImmeUnit.scala:6:7: Extender is already defined as class Extender[0m
+[0m[[0m[31merror[0m] [0m[0mclass Extender extends Module{[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/phonerebelx/scala-chisel-learning-journey/src/main/scala/lab7/lab4/RocketALu.scala:6:8: RALUOP is already defined as object RALUOP[0m
+[0m[[0m[31merror[0m] [0m[0mobject RALUOP {[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/phonerebelx/scala-chisel-learning-journey/src/main/scala/lab7/lab4/RocketALu.scala:22:7: Config is already defined as trait Config[0m
+[0m[[0m[31merror[0m] [0m[0mtrait Config{[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/phonerebelx/scala-chisel-learning-journey/src/main/scala/lab7/lab4/RocketALu.scala:29:7: ALUIO is already defined as class ALUIO[0m
+[0m[[0m[31merror[0m] [0m[0mclass ALUIO extends Bundle with Config {[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/phonerebelx/scala-chisel-learning-journey/src/main/scala/lab7/lab4/RocketALu.scala:36:7: ALU1 is already defined as class ALU1[0m
+[0m[[0m[31merror[0m] [0m[0mclass ALU1 extends Module with Config {[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/phonerebelx/scala-chisel-learning-journey/src/main/scala/lab7/lab6/Ex1.scala:3:7: shift_register is already defined as class shift_register[0m
+[0m[[0m[31merror[0m] [0m[0mclass shift_register ( val init : Int = 1) extends Module {[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/phonerebelx/scala-chisel-learning-journey/src/main/scala/lab7/lab6/Ex2.scala:5:7: counter is already defined as class counter[0m
+[0m[[0m[31merror[0m] [0m[0mclass counter (val max : Int , val min : Int = 0) extends Module {[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/phonerebelx/scala-chisel-learning-journey/src/main/scala/lab7/lab6/Ex4.scala:5:7: My_Queue is already defined as class My_Queue[0m
+[0m[[0m[31merror[0m] [0m[0mclass My_Queue extends Module {[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/phonerebelx/scala-chisel-learning-journey/src/main/scala/lab7/lab6/Task4.scala:4:7: up_down_counter is already defined as class up_down_counter[0m
+[0m[[0m[31merror[0m] [0m[0mclass up_down_counter ( val max : Int = 10) extends Module {[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/phonerebelx/scala-chisel-learning-journey/src/main/scala/lab7/lab6/task2.scala:4:7: counter_with_xor is already defined as class counter_with_xor[0m
+[0m[[0m[31merror[0m] [0m[0mclass counter_with_xor( val max : Int = 5 ,min : Int = 0) extends Module {[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/phonerebelx/scala-chisel-learning-journey/src/main/scala/lab7/lab6/task3.scala:6:7: shift_reg_with_parallel_load is already defined as class shift_reg_with_parallel_load[0m
+[0m[[0m[31merror[0m] [0m[0mclass shift_reg_with_parallel_load (val len : Int = 4, max : Int = 5 ,min : Int = 0 ) extends Module {[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/phonerebelx/scala-chisel-learning-journey/src/main/scala/lab8/ex1.scala:5:7: WMaskedReadWriteSmem is already defined as class WMaskedReadWriteSmem[0m
+[0m[[0m[31merror[0m] [0m[0mclass WMaskedReadWriteSmem extends Module {[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/phonerebelx/scala-chisel-learning-journey/src/main/scala/lab8/ex2.scala:4:7: doForwarding is already defined as class doForwarding[0m
+[0m[[0m[31merror[0m] [0m[0mclass doForwarding extends Module {[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/phonerebelx/scala-chisel-learning-journey/src/main/scala/lab8/ex3.scala:6:7: InstMemIO is already defined as class InstMemIO[0m
+[0m[[0m[31merror[0m] [0m[0mclass InstMemIO extends Bundle{[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/phonerebelx/scala-chisel-learning-journey/src/main/scala/lab8/ex3.scala:10:7: InstMem is already defined as class InstMem[0m
+[0m[[0m[31merror[0m] [0m[0mclass InstMem ( initFile : String ) extends Module{[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/phonerebelx/scala-chisel-learning-journey/src/main/scala/lab8/task1.scala:5:7: memory_assignment_1 is already defined as class memory_assignment_1[0m
+[0m[[0m[31merror[0m] [0m[0mclass memory_assignment_1 extends Module {[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m21 errors found[0m

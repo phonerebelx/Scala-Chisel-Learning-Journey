@@ -1,0 +1,33 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(test, Some(96d4c412-1e87-4e66-b9e9-3e68ad8254cf), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / test[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/phonerebelx/scala-chisel-learning-journey/target/scala-2.12/test-classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCountTest2:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- c ounter_up_down test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mtestdecoder:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- decode[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mencodertest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- encode[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mbranchtest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- ALU[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mALUtest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- ALU[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mgen_counterTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Ex 3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCountTest1:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- CounterTest test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGCDSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Gcd should calculate proper greatest common denominator[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCountTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- CounterTest test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mbitextendertest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- BitExtender[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 29 seconds, 285 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 10[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 10, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 10, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 34 s, completed Nov 11, 2021, 11:09:00 AM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mForcing garbage collection...[0m
+[0m[[0m[0minfo[0m] [0m[0mshutting down sbt server[0m
